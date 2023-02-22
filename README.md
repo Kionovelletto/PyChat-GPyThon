@@ -1,3 +1,5 @@
+![pychat_GPyThon_logo](https://user-images.githubusercontent.com/15057595/220637589-d7b09eb9-989b-4c0d-a885-5e9740d8b82f.png)
+
 # PyChat GPyThon
 Integration with ChatGPT OpenAI in Python.
 
