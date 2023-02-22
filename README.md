@@ -1,11 +1,22 @@
-# TC-CHAT-GPyThon
-Integration with ChatGPT in Python on OpenIA.
+# PyChat GPyThon
+Integration with ChatGPT OpenAI in Python.
 
-## Requisitos para a execução do projeto:
-pip install openai      #https://pypi.org/project/openai/
-pip install python-dotenv       #https://pypi.org/project/python-dotenv/
+Ask your questions and receive the answers right away. Simple, interactive and continuous.
 
-## Gerar uma chave para a API:
+## Requisites for project:
+Intall:
+```bash 
+pip install openai
+pip install python-dotenv
+```
+Sources:
+https://pypi.org/project/openai/
+https://pypi.org/project/python-dotenv/
+
+
+## Generate a API Key in openai:
 https://platform.openai.com/account/api-keys
-Adicionar em env.env
-openai.api_key = < sua chave>
+Add key in env folder and .env file
+```bash 
+openai.api_key = <your_key>
+```
