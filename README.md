@@ -14,6 +14,7 @@ https://pypi.org/project/openai/ and https://pypi.org/project/python-dotenv/
 
 
 ## Generate a API Key in openai:
+Access and create a API key:
 https://platform.openai.com/account/api-keys
 
 Add key in env folder and .env file(Project: env/.env).
