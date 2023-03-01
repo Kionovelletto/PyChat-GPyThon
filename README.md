@@ -7,6 +7,11 @@ Ask your questions and receive the answers right away. Simple, interactive and c
 
 ## Requisites for project:
 Install packages:
+```bash
+pip install -r requirements.txt
+```
+Or
+
 ```bash 
 pip install openai
 pip install python-dotenv
